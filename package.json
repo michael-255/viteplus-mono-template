@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "ready": "vp check && vp run -r test && vp run -r build",
-    "dev": "vp run website#dev",
+    "dev:react": "vp run tanstack-react#dev",
+    "dev:solid": "vp run tanstack-solid#dev",
     "prepare": "vp config"
   },
   "devDependencies": {
