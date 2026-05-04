@@ -3,4 +3,4 @@
 - `cac`
 - `zod`
 - `@clack/prompts`
-- `chalk`???
+- `picocolors`
