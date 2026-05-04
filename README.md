@@ -4,11 +4,11 @@ A starter for creating a Vite+ monorepo.
 
 ## TODO
 
-- Setup `Scripts` package for building and running scripts across the monorepo.
-  - Include tests
-- Setup `Tanstack React` website with Shadcn UI and Tailwind CSS.
-- Setup `tanstack Solid` website with Shadcn UI and Tailwind CSS.
 - Setup `Convex` package for backend development.
+- Setup `Clerk` for auth.
+- Setup `Scripts` package for building and running scripts across the monorepo.
+- Setup `Tanstack React` website with Shadcn UI and Tailwind CSS.
+- Setup `Tanstack Solid` website with Shadcn UI and Tailwind CSS.
 
 ## Development
 
